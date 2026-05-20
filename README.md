@@ -79,7 +79,7 @@ git add weather_diary.py README.md .gitignore
 git commit -m "Initial commit: Weather Diary GUI app"
 
 # Добавление удалённого репозитория (замените YOUR_USERNAME и REPO_NAME)
-git remote add origin https://github.com/YOUR_USERNAME/weather-diary.git
+git remote add origin https://github.com/marinakang777/Weather-Diary.git
 
 # Пуш на GitHub
 git push -u origin main
